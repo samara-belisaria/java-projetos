@@ -33,7 +33,10 @@ Criar um sistema que permita:
   Organização do projeto em dois pacotes:
 
 src/
+
 ├── main/ → Contém a classe principal do sistema (SistemaPagamento)
+
+
 └── metodos/ → Contém as classes auxiliares (Financeiro e Relatorio)
 
 
@@ -42,11 +45,16 @@ src/
 ## ⚙️ **Estrutura do Projeto**
 
 sistema-folha-pagamento/
+
 ├── src/
+
 │ ├── main/
+
 │ │ └── SistemaPagamento.java
 │ └── metodos/
+
 │ ├── Financeiro.java
+
 │ └── Relatorio.java
 
 
